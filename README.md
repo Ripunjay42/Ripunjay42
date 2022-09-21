@@ -5,6 +5,6 @@
 - 💬 Ask me about tech related stuff.
 - 📫 How to reach me: https://linkedin.com/in/ripunjay-choudhury-83864524b || ripunjaychoudhury42@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Active in Sports.
+- ⚡ Fun fact: I like to play cricket.
 
    https://ripunjay42.github.io
