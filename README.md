@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ripunjay-choudhury-83864524b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ripunjay choudhury" height="30" width="40" /></a>
 <a href="https://github.com/Ripunjay42" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="ripunjay choudhury" height="30" width="40" style="background-color: blueviolet;" /></a>
+<img align="center" src="https://img.icons8.com/color-glass/48/000000/github--v1.png" alt="ripunjay choudhury" height="40" width="40" style="background-color: blueviolet;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
