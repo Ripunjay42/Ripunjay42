@@ -1,15 +1,15 @@
 ![header](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Ripunjay Choudhury</h1>
-<h3 align="center">A Tech Enthusiast and a computer science student</h3>
+<h3 align="center">A tech Enthusiast and computer science student</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripunjay42&label=Profile%20views&color=0e75b6&style=flat" alt="ripunjay42" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python framework**
+- 🌱 I’m currently learning **Python framework and solving problems on leetcode**
 
-- 👨‍💻 All of my projects are available at [https://ripunjay42.github.io/](https://ripunjay42.github.io/)
+- 👨‍💻 All of my projects are available at (https://ripunjay42.github.io/)
 
 - 💬 Ask me about **tech related stuff**
 
@@ -17,13 +17,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YtAu3FLGAg1bAGKMfInLSy4rbX90qdiN/view?usp=sharing](https://drive.google.com/file/d/1YtAu3FLGAg1bAGKMfInLSy4rbX90qdiN/view?usp=sharing)
 
-- ⚡ Fun fact **I like to play cricket**
+- ⚡ Fun fact **I like to play sports like cricket, badminton, etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ripunjay-choudhury-83864524b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ripunjay choudhury" height="30" width="40" /></a>
 <a href="https://github.com/Ripunjay42" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="ripunjay choudhury" height="30" width="40" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="ripunjay choudhury" height="30" width="40" style="background-color: blueviolet;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
