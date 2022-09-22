@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YtAu3FLGAg1bAGKMfInLSy4rbX90qdiN/view?usp=sharing](https://drive.google.com/file/d/1YtAu3FLGAg1bAGKMfInLSy4rbX90qdiN/view?usp=sharing)
 
-- ⚡ Fun fact **I like to play sports like cricket, badminton, etc.**
+- ⚡ Fun fact **I love to play sports like cricket, badminton, etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
