@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python framework and solving problems on leetcode**
 
-- 👨‍💻 All of my projects are available at (https://ripunjay42.github.io/)
+- 👨‍💻 my projects are available at (https://ripunjay42.github.io/)
 
 - 💬 Ask me about **tech related stuff**
 
