@@ -1,4 +1,4 @@
-![logo](https://certificates42.s3.ap-northeast-1.amazonaws.com/cer/banner.png)
+![logo](https://github.com/Ripunjay42/Ripunjay42/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ripunjay Choudhury</h1>
 <h3 align="center">A tech Enthusiast and computer science student</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
