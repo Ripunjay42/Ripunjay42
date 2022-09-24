@@ -1,4 +1,4 @@
-![logo](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)
+![logo](https://certificates42.s3.ap-northeast-1.amazonaws.com/cer/banner.png)
 <h1 align="center">Hi 👋, I'm Ripunjay Choudhury</h1>
 <h3 align="center">A tech Enthusiast and computer science student</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
