@@ -1,4 +1,4 @@
-![logo](https://github.com/Ripunjay42/Ripunjay42/blob/main/ban.png)
+![logo](https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg)
 <h1 align="center">Hi 👋, I'm Ripunjay Choudhury</h1>
 <h3 align="center">A tech Enthusiast and computer science student</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
