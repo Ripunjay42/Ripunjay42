@@ -1,4 +1,4 @@
-![header](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=2000)
+![logo](https://github.com/Ripunjay42/Ripunjay42/blob/main/ban.png)
 <h1 align="center">Hi 👋, I'm Ripunjay Choudhury</h1>
 <h3 align="center">A tech Enthusiast and computer science student</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
