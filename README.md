@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ripunjay Choudhury</h1>
 <h3 align="center">A tech Enthusiast and computer science student</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img align="right" alt="coding" width="400" height="300" src="https://phoneky.co.uk/thumbs/screensavers/down/computer/hacker_uGThpFPb.gif">
+<img align="right" alt="coding" width="400" height="250" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripunjay42&label=Profile%20views&color=0e75b6&style=flat" alt="ripunjay42" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
