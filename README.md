@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ripunjaychoudhury42@gmail.com || https://www.linkedin.com/in/ripunjay-choudhury-83864524b**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1ZT_CUB7vevHHANz5wEsd5YQLrMU9Mnca/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1GgtkrPsKERVkkUxn2GrA_xgi9sFWQTBK/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play sports like cricket, badminton, etc.**
 
