@@ -1,23 +1,22 @@
 ![Banner](https://i.postimg.cc/sgx09cR4/banner.png)
 <h1 align="center">Hi 👋, I'm Ripunjay Choudhury</h1>
-<h3 align="center">A tech Enthusiast and computer science student</h3>
+<h3 align="center">A tech Enthusiast, Django Developer and Competitive Coder</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img align="right" alt="coding" width="400" height="250" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ripunjay42&label=Profile%20views&color=0e75b6&style=flat" alt="ripunjay42" /> </p>
+ <img  align="right" alt="coding" width="400" height="280" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripunjay42&label=Profile%20views&color=0e75b6&style=flat" alt="ripunjay42" /> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌱 I’m currently learning Python framework and solving problems on leetcode.
 
-- 🌱 I’m currently learning **Python framework and solving problems on leetcode**
+- 👨‍💻 my projects are available at (https://ripunjay-code.netlify.app/).
 
-- 👨‍💻 my projects are available at (https://ripunjay-code.netlify.app/)
+- 💬 Ask me about tech related stuff.
 
-- 💬 Ask me about **tech related stuff**
+- 📫 How to reach me : ripunjaychoudhury42@gmail.com || https://www.linkedin.com/in/ripunjay-choudhury-83864524b.
 
-- 📫 How to reach me **ripunjaychoudhury42@gmail.com || https://www.linkedin.com/in/ripunjay-choudhury-83864524b**
+- 📄 Know about my experiences : (https://drive.google.com/file/d/1GgtkrPsKERVkkUxn2GrA_xgi9sFWQTBK/view?usp=sharing).
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1GgtkrPsKERVkkUxn2GrA_xgi9sFWQTBK/view?usp=sharing)
-
-- ⚡ Fun fact **I love to play sports like cricket, badminton, etc.**
+- ⚡ Fun fact : I love to play sports like cricket, badminton, etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,7 +51,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 </a> 
- </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripunjay42&show_icons=true&locale=en&theme=tokyonight" alt="ripunjay42" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ripunjay42&theme=tokyonight" alt="ripunjay42" /></p>
+ </p><br>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripunjay42&show_icons=true&locale=en&theme=tokyonight" alt="ripunjay42" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ripunjay42&theme=tokyonight" alt="ripunjay42" /></p>
