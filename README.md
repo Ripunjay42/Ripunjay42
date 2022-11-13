@@ -1,6 +1,6 @@
 ![Banner](https://i.postimg.cc/sgx09cR4/banner.png)
 <h1 align="center">Hi 👋, I'm Ripunjay Choudhury</h1>
-<h3 align="center">A tech Enthusiast, Django Developer and Competitive Coder</h3>
+<h3 align="center">A Computer Enthusiast, Web Developer and Competitive Coder</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <img  align="right" alt="coding" width="400" height="280" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripunjay42&label=Profile%20views&color=0e75b6&style=flat" alt="ripunjay42" /> </p>
