@@ -52,6 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 </a> 
  </p><br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripunjay42&show_icons=true&locale=en&theme=tokyonight" alt="ripunjay42" /></p>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ripunjay42&theme=tokyonight" alt="ripunjay42" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ripunjay42&show_icons=true&locale=en&theme=tokyonight" alt="ripunjay42" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ripunjay42&theme=tokyonight" alt="ripunjay42" /></p>
