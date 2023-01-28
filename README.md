@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/sgx09cR4/banner.png)
+![Banner](https://i.postimg.cc/gmHFpSSQ/banner.png)
 <h1 align="center">Hi 👋, I'm Ripunjay Choudhury</h1>
 <h3 align="center">A Computer Enthusiast, Developer and Competitive Coder</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
