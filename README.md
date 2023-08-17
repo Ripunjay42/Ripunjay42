@@ -27,7 +27,7 @@
 
 <hr>
 <P align="left">
-  <img alt="snake eating my contribution" src="https://github.com/{{Ripunjay42}}/{{Ripunjay42}}/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Ripunjay42/Ripunjay42/output/snake.svg" alt="Snake animation" />
   <br>
   <br>
 </p>
