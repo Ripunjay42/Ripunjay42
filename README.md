@@ -28,7 +28,7 @@
 <hr>
 <p align="left">
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Ripunjay42/Ripunjay42/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br>
   <br>
 </p>
