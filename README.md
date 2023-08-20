@@ -28,6 +28,7 @@
 <hr>
 <P align="left">
   <img src="https://raw.githubusercontent.com/Ripunjay42/Ripunjay42/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-contribution-grid-snake.gif"/>
   <br>
   <br>
 </p>
