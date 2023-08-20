@@ -26,8 +26,8 @@
 - ⚡ Fun fact : I love to play sports like cricket, badminton, etc.
 
 <hr>
-<P align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+<p align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/Ripunjay42/Ripunjay42/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br>
   <br>
