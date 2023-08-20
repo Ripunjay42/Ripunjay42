@@ -21,5 +21,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          - name: generate-snake-game-from-github-contribution-grid
+            uses: Platane/snk@v3.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
