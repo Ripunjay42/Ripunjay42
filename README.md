@@ -1,3 +1,4 @@
+
 ![Banner](https://i.postimg.cc/gmHFpSSQ/banner.png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -27,7 +28,7 @@
 
 <hr>
 <p align="left">
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-contribution-grid-snake.gif)" />
   <img src="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br>
   <br>
