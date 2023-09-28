@@ -1,4 +1,3 @@
-
 ![Banner](https://i.postimg.cc/gmHFpSSQ/banner.png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,7 +7,7 @@
 <h3 align="center">A Computer Enthusiast, Developer and Competitive Coder</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  <div align="center">
-  <img  alt="coding" width="500" height="250" src="https://www.lambdatest.com/resources/images/news24.gif">
+  <img  alt="coding" width=50% height=40% src="https://www.lambdatest.com/resources/images/news24.gif">
  </div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ripunjay42&label=Profile%20views&color=0e75b6&style=flat" alt="ripunjay42" /> </p>
 <br>
