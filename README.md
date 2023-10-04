@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Ripunjay42/Ripunjay42/main/banner3.png)
+![Banner](https://i.ibb.co/HBN5D00/banner3.png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Ripunjay+Choudhury!;&center=true&size=30">
