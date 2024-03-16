@@ -13,7 +13,7 @@
 <br>
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 
-- 🌱 I’m currently learning Flutter and solving problems on leetcode.
+- 🌱 I’m currently learning next js and solving problems on leetcode.
 
 - 👨‍💻 my projects are available at (https://ripunjay-code.netlify.app).
 
