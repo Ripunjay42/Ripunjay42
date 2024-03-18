@@ -86,18 +86,18 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/> 
 </a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="60" height="60"/> 
+</a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
 </a> 
 <a href="https://react-bootstrap.netlify.app/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react bootstrap" width="60" height="60"/> 
 </a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="60" height="60"/> 
-</a>
-<a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node js" width="60" height="60"/> 
-</a>
+</a> -->
  </p><br>
  <hr>
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
