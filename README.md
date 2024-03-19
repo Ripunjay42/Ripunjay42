@@ -73,31 +73,35 @@
 </a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next js" width="60" height="60"/> 
+</a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="60" height="60"/> 
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="60" height="60"/> 
 </a> 
+<a href="https://react-bootstrap.netlify.app/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react bootstrap" width="60" height="60"/> 
+</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/> 
 </a> 
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="60" height="60"/> 
  </a>
+<a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/> 
+</a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
  </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="60" height="60"/> 
+</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/> 
 </a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="60" height="60"/> 
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
-</a> 
-<a href="https://react-bootstrap.netlify.app/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react bootstrap" width="60" height="60"/> 
-</a>
-<!-- <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node js" width="60" height="60"/> 
-</a> -->
+
  </p><br>
  <hr>
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
