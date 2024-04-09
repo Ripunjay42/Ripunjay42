@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning next js and devops.
 
-- 👨‍💻 my projects are available at (https://ripunjay-code.netlify.app).
+- 👨‍💻 my projects are available at (https://ripunjay-choudhury.vercel.app).
 
 - 💬 Ask me about tech related stuff.
 
