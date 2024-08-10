@@ -104,6 +104,6 @@
 
  </p><br>
  <hr>
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&hide=jupyter%20notebook,HTML&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
 <!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ripunjay42&show_icons=true&locale=en&theme=tokyonight" alt="ripunjay42" /></p> -->
 <p align="left"><img src="https://streak-stats.demolab.com?user=Ripunjay42&theme=tokyonight" alt="ripunjay42" /></p>
