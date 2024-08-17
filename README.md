@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning next js and devops.
 
-- 👨‍💻 my projects are available at (https://ripunjay-choudhury.vercel.app).
+- 👨‍💻 my projects are available at : <a href="https://ripunjay-choudhury.vercel.app" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portfolio.svg/720px-Portfolio.svg.png?20121015192128" alt="ln" width="20" height="15"/> Portfolio. </a>
 
 - 💬 Ask me about tech related stuff.
 
-- 📫 How to reach me : ripunjaychoudhury42@gmail.com || https://www.linkedin.com/in/ripunjay-choudhury-83864524b.
+- 📫 How to reach me :   <a href="mailto:ripunjaychoudhury42@gmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" width="20" height="20"/>  </a>  <a href="https://www.linkedin.com/in/ripunjay-choudhury-83864524b" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="ln" width="20" height="20"/> </a>
 
-- 📄 Know about my experiences : (https://drive.google.com/file/d/1GgtkrPsKERVkkUxn2GrA_xgi9sFWQTBK/view?usp=sharing).
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1GgtkrPsKERVkkUxn2GrA_xgi9sFWQTBK/view?usp=sharing" target="_blank"> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2021/240/iconmonstr-cv-4.png" width="20" heiight="20"/> Resume. </a>
 
 - ⚡ Fun fact : I love to play sports like cricket, badminton, etc.
 
