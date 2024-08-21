@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning next js and devops.
 
-- 👨‍💻 my projects are available at : <a href="https://ripunjay-choudhury.vercel.app" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portfolio.svg/720px-Portfolio.svg.png?20121015192128" alt="ln" width="20" height="15"/> Portfolio. </a>
+- 👨‍💻 my projects are available at : <a href="https://ripunjay-portfolio.vercel.app/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portfolio.svg/720px-Portfolio.svg.png?20121015192128" alt="ln" width="20" height="15"/> Portfolio. </a>
 
 - 💬 Ask me about tech related stuff.
 
