@@ -8,6 +8,7 @@
 
 <h3 align="center">A Computer Enthusiast, Developer and Competitive Coder</h3>
 
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -31,15 +32,16 @@
 
   </tr>
 </table>
+</div>
 
-
- 
 <p align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-contribution-grid-snake.gif)" />
   <img src="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   <br>
   <br>
 </p>
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ripunjay-choudhury-83864524b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ripunjay choudhury" height="50" width="60" /></a>
