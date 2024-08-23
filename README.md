@@ -23,7 +23,7 @@
     <td valign="top" width="50%">
 
 <div align="center">
-  <img align="center" alt="coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
+  <img align="center" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
   <br>
   <img src="https://komarev.com/ghpvc/?username=ripunjay42&label=Profile%20views&color=0e75b6&style=flat" alt="ripunjay42" />
 </div>
