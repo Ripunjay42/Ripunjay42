@@ -4,28 +4,35 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Ripunjay+Choudhury!;&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A Computer Enthusiast, Developer and Competitive Coder</h3>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
- <div align="center">
-  <img  alt="coding" width=50% height=40% src="https://www.lambdatest.com/resources/images/news24.gif">
- </div>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ripunjay42&label=Profile%20views&color=0e75b6&style=flat" alt="ripunjay42" /> </p>
-<br>
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 
-- 🌱 I’m currently learning next js and devops.
 
-- 👨‍💻 my projects are available at : <a href="https://ripunjay-portfolio.vercel.app/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portfolio.svg/720px-Portfolio.svg.png?20121015192128" alt="ln" width="20" height="15"/> Portfolio. </a>
+# A Computer Enthusiast, Developer and Competitive Coder
 
-- 💬 Ask me about tech related stuff.
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- 📫 How to reach me :   <a href="mailto:ripunjaychoudhury42@gmail.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" width="20" height="20"/>  </a>  <a href="https://www.linkedin.com/in/ripunjay-choudhury-83864524b" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="ln" width="20" height="20"/> </a>
+- 🌱 I'm currently learning next js and devops.
+- 👨‍💻 My projects are available at: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portfolio.svg/720px-Portfolio.svg.png?20121015192128" alt="ln" width="20" height="15"/> Portfolio](https://ripunjay-portfolio.vercel.app/)
+- 💬 Ask me about tech-related stuff.
+- 📫 How to reach me: [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" width="20" height="20"/>](mailto:ripunjaychoudhury42@gmail.com) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="ln" width="20" height="20"/>](https://www.linkedin.com/in/ripunjay-choudhury-83864524b)
+- 📄 Know about my experiences: [<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2021/240/iconmonstr-cv-4.png" width="20" height="20"/> Resume](https://drive.google.com/file/d/1GgtkrPsKERVkkUxn2GrA_xgi9sFWQTBK/view?usp=sharing)
+- ⚡ Fun fact: I love to play sports like cricket, badminton, etc.
 
-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1GgtkrPsKERVkkUxn2GrA_xgi9sFWQTBK/view?usp=sharing" target="_blank"> <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2021/240/iconmonstr-cv-4.png" width="20" heiight="20"/> Resume. </a>
+    </td>
+    <td valign="top" width="50%">
 
-- ⚡ Fun fact : I love to play sports like cricket, badminton, etc.
+<div align="center">
+  <img align="center" alt="coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ripunjay42&label=Profile%20views&color=0e75b6&style=flat" alt="ripunjay42" />
+</div>
 
-<hr>
+  </tr>
+</table>
+
+
+ 
 <p align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-contribution-grid-snake.gif)" />
   <img src="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
