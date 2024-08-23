@@ -6,7 +6,7 @@
 </h1>
 
 
-# A Computer Enthusiast, Developer and Competitive Coder
+<h3 align="center">A Computer Enthusiast, Developer and Competitive Coder</h3>
 
 <table>
   <tr>
