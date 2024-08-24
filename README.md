@@ -12,7 +12,7 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="55%">
 
 - 🌱 I'm currently learning next js and devops.
 - 👨‍💻 My projects are available at: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Portfolio.svg/720px-Portfolio.svg.png?20121015192128" alt="ln" width="20" height="15"/>&nbsp; Portfolio](https://ripunjay-portfolio.vercel.app/)
@@ -23,7 +23,7 @@
 - ⚡ Fun fact: I like to play cricket, badminton, etc.
 
     </td>
-   <td valign="top" width="50%">
+   <td valign="top" width="45%">
       <div align="center">
         <img align="center" alt="coding" width="100%" src="https://www.lambdatest.com/resources/images/news24.gif">
         <br><br>
