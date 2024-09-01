@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/HBN5D00/banner3.png)
+![Banner](https://i.postimg.cc/vmDT80mx/banner3.png)
 <!-- ![Banner](https://i.ibb.co/9VtFR07/banner24.png)-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
