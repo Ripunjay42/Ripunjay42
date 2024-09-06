@@ -44,9 +44,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ripunjay-choudhury-83864524b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ripunjay choudhury" height="40" width="35" /></a>&nbsp;&nbsp;
-<a href="https://github.com/Ripunjay42" target="blank">
-<img align="center" src="https://img.icons8.com/color-glass/48/000000/github--v1.png" alt="ripunjay choudhury" height="40" width="40" style="background-color: blueviolet" /></a>
+<a href="https://www.linkedin.com/in/ripunjay-choudhury-83864524b" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ripunjay choudhury" height="40" width="35" />
+</a>&nbsp;&nbsp;
+<a href="mailto:ripunjaychoudhury42@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" width="35" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
