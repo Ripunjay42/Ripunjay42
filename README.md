@@ -34,7 +34,7 @@
 </table>
 </div>
 
-<p align="left">
+<p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-contribution-grid-snake.gif)" />
   <img src="https://github.com/Ripunjay42/Ripunjay42/blob/output/github-snake-dark.svg" alt="Snake animation" />
   <br>
