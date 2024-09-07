@@ -43,96 +43,40 @@
 <hr>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ripunjay-choudhury-83864524b" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ripunjay choudhury" height="40" width="35" />
-</a>&nbsp;&nbsp;
-<a href="mailto:ripunjaychoudhury42@gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" width="35" height="40"/></a>
-</p>
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="35" />](https://www.linkedin.com/in/ripunjay-choudhury-83864524b/)&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35" height="40"/>](mailto:ripunjaychoudhury42@gmail.com)
 
 <h3 align="left">Coding Platform:</h3>
-<p align="left">
-<a href="https://leetcode.com/u/Ripunjay42/" target="blank">
-  <img align="center" src="https://ripunjay-portfolio.vercel.app/assets/leetcode-BxVBsOYN.png"   alt="leetcode" height="55" width="55" />
-</a>
-<a href="https://www.codechef.com/users/ripunjay42" target="blank">
-  <img align="center" src="https://ripunjay-portfolio.vercel.app/assets/codechef-ChocRgCa.png" alt="codechef" width="50" height="50"/>
-</a>
-</p>
+
+[<img align="center" src="https://ripunjay-portfolio.vercel.app/assets/leetcode-BxVBsOYN.png" alt="LeetCode" height="55" width="55" />](https://leetcode.com/u/Ripunjay42/)[<img align="center" src="https://ripunjay-portfolio.vercel.app/assets/codechef-ChocRgCa.png" alt="CodeChef" width="50" height="50"/>](https://www.codechef.com/users/ripunjay42)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a>&nbsp;&nbsp; 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> &nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-</a> &nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://react.dev/learn" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next js" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-</a> &nbsp;&nbsp;
-<a href="https://react-bootstrap.netlify.app/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react bootstrap" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-  <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://ripunjay-portfolio.vercel.app/assets/express-CONiduLU.png" alt="express" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> 
-  <img src="https://ripunjay-portfolio.vercel.app/assets/flask-CbRU6l2m.png" alt="flask" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org/docs/current/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-</a> &nbsp;&nbsp;
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
-<!-- <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-</a> -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> &nbsp;&nbsp;
-<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="50" height="40"/> 
-</a>&nbsp;&nbsp;
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
- </p><br>
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>](https://www.cprogramming.com/)&nbsp;&nbsp; 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>](https://www.w3schools.com/cpp/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>](https://www.java.com)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>](https://www.python.org)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>](https://www.w3.org/html/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>](https://www.w3schools.com/css/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>](https://react.dev/learn)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>](https://nextjs.org/docs)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>](https://tailwindcss.com)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>](https://getbootstrap.com/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="React Bootstrap" width="40" height="40"/>](https://react-bootstrap.netlify.app/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)&nbsp;&nbsp;
+[<img src="https://ripunjay-portfolio.vercel.app/assets/express-CONiduLU.png" alt="Express.js" width="40" height="40"/>](https://expressjs.com/)&nbsp;&nbsp;
+[<img src="https://ripunjay-portfolio.vercel.app/assets/flask-CbRU6l2m.png" alt="Flask" width="40" height="40"/>](https://flask.palletsprojects.com/en/3.0.x/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>](https://www.djangoproject.com/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>](https://www.mysql.com/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>](https://www.postgresql.org/docs/current/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>](https://www.sqlite.org/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>](https://www.linux.org/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="40"/>](https://docs.docker.com/)&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>](https://git-scm.com)&nbsp;&nbsp;
+<br>
+
  <hr>
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&hide=jupyter%20notebook,HTML&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
 <!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ripunjay42&show_icons=true&locale=en&theme=tokyonight" alt="ripunjay42" /></p> -->
