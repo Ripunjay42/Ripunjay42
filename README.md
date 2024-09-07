@@ -51,6 +51,16 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" width="35" height="40"/></a>
 </p>
 
+<h3 align="left">Coding Platform:</h3>
+<p align="left">
+<a href="https://leetcode.com/u/Ripunjay42/" target="blank">
+  <img align="center" src="https://ripunjay-portfolio.vercel.app/assets/leetcode-BxVBsOYN.png"   alt="leetcode" height="55" width="55" />
+</a>
+<a href="https://www.codechef.com/users/ripunjay42" target="blank">
+  <img align="center" src="https://ripunjay-portfolio.vercel.app/assets/codechef-ChocRgCa.png" alt="codechef" width="50" height="50"/>
+</a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
