@@ -103,10 +103,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  <img src="https://ripunjay-portfolio.vercel.app/assets/express-CONiduLU.png" alt="express" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
+  <img src="https://ripunjay-portfolio.vercel.app/assets/flask-CbRU6l2m.png" alt="flask" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
