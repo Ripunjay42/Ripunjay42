@@ -49,14 +49,15 @@
 
 <h3 align="left">Coding Platform:</h3>
 
-[<img align="center" src="https://ripunjay-portfolio.vercel.app/assets/leetcode-BxVBsOYN.png" alt="LeetCode" height="55" width="55" />](https://leetcode.com/u/Ripunjay42/)[<img align="center" src="https://ripunjay-portfolio.vercel.app/assets/codechef-ChocRgCa.png" alt="CodeChef" width="50" height="50"/>](https://www.codechef.com/users/ripunjay42)
+[<img align="center" src="https://ripunjay-portfolio.vercel.app/assets/leetcode-BxVBsOYN.png" alt="LeetCode" height="65" width="65" />](https://leetcode.com/u/Ripunjay42/)[<img align="center" src="https://ripunjay-portfolio.vercel.app/assets/codechef-ChocRgCa.png" alt="CodeChef" width="60" height="60"/>](https://www.codechef.com/users/ripunjay42)
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://ripunjay-portfolio.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,flask,django,mysql,postgresql,sqlite,linux,docker,git,github,vscode" /><br>
-<!--     <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" /> -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,nodejs,express,flask,django,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,sqlite,linux,docker,git,github,vscode"/>
 
   </a>
 </p>
