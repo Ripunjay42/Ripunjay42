@@ -44,8 +44,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="35" />](https://www.linkedin.com/in/ripunjay-choudhury-83864524b/)&nbsp;&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35" height="40"/>](mailto:ripunjaychoudhury42@gmail.com)
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>](https://www.linkedin.com/in/ripunjay-choudhury-83864524b/)&nbsp;&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>](mailto:ripunjaychoudhury42@gmail.com)
 
 <h3 align="left">Coding Platform:</h3>
 
@@ -54,7 +54,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://ripunjay-portfolio.vercel.app/">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,flask,django,mysql,postgresql,sqlite,linux,docker,git,github,vscode" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" /> -->
 
