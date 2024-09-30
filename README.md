@@ -66,4 +66,4 @@
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&hide=jupyter%20notebook,HTML&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
 <!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ripunjay42&show_icons=true&locale=en&theme=tokyonight" alt="ripunjay42" /></p> -->
 <p align="left"><img src="https://streak-stats.demolab.com?user=Ripunjay42&theme=tokyonight" alt="ripunjay42" /></p>
-<p align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ripunjay42&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="ripunjay42" /></p>
+<p align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ripunjay42&theme=tokyonight&bg_color=1a1b27&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="ripunjay42" /></p>
