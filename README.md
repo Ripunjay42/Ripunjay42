@@ -53,29 +53,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>](https://www.cprogramming.com/)&nbsp;&nbsp; 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>](https://www.w3schools.com/cpp/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>](https://www.java.com)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>](https://www.python.org)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>](https://www.w3.org/html/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>](https://www.w3schools.com/css/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>](https://react.dev/learn)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>](https://nextjs.org/docs)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>](https://tailwindcss.com)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>](https://getbootstrap.com/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="React Bootstrap" width="40" height="40"/>](https://react-bootstrap.netlify.app/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)&nbsp;&nbsp;
-[<img src="https://ripunjay-portfolio.vercel.app/assets/express-CONiduLU.png" alt="Express.js" width="40" height="40"/>](https://expressjs.com/)&nbsp;&nbsp;
-[<img src="https://ripunjay-portfolio.vercel.app/assets/flask-CbRU6l2m.png" alt="Flask" width="40" height="40"/>](https://flask.palletsprojects.com/en/3.0.x/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>](https://www.djangoproject.com/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>](https://www.mysql.com/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>](https://www.postgresql.org/docs/current/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>](https://www.sqlite.org/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>](https://www.linux.org/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="40"/>](https://docs.docker.com/)&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>](https://git-scm.com)&nbsp;&nbsp;
-<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,flask,django,mysql,postgresql,sqlite,linux,docker,git,github,vscode" /><br>
+<!--     <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,redux,blender,ae,linux,vscode,heroku,figma" /> -->
+
+  </a>
+</p>
 
  <hr>
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ripunjay42&hide=jupyter%20notebook,HTML&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ripunjay42" /></p>
