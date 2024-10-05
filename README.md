@@ -43,12 +43,13 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>](https://www.linkedin.com/in/ripunjay-choudhury-83864524b/)&nbsp;&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>](mailto:ripunjaychoudhury42@gmail.com)
+[<img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn"/>](https://www.linkedin.com/in/ripunjay-choudhury-83864524b/)&nbsp;&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail"/>](mailto:ripunjaychoudhury42@gmail.com)
 
 <h3 align="left">Coding Platform:</h3>
 
-[<img align="center" src="https://ripunjay-portfolio.vercel.app/assets/leetcode-BxVBsOYN.png" alt="LeetCode" height="65" width="65" />](https://leetcode.com/u/Ripunjay42/)[<img align="center" src="https://ripunjay-portfolio.vercel.app/assets/codechef-ChocRgCa.png" alt="CodeChef" width="60" height="60"/>](https://www.codechef.com/users/ripunjay42)
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" height="50" width="50" />](https://leetcode.com/u/Ripunjay42/)&nbsp;
+[<img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="CodeChef" width="50" height="50"/>](https://www.codechef.com/users/ripunjay42)
 
 <h3 align="left">Languages and Tools:</h3>
 
