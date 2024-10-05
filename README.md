@@ -48,7 +48,7 @@
 
 <h3 align="left">Coding Platform:</h3>
 
-[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" height="50" width="50" />](https://leetcode.com/u/Ripunjay42/)&nbsp;
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" height="50" width="50" />](https://leetcode.com/u/Ripunjay42/)
 [<img align="center" src="https://img.icons8.com/fluent/512/codechef.png" alt="CodeChef" width="50" height="50"/>](https://www.codechef.com/users/ripunjay42)
 
 <h3 align="left">Languages and Tools:</h3>
