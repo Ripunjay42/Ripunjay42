@@ -16,7 +16,6 @@
 
 - 🌱 I'm currently learning next js and devops.
 - 👨‍💻 My projects are available at:&nbsp;&nbsp;[Portfolio](https://ripunjay-portfolio.vercel.app/)
-- 💬 Ask me about S/W development related stuff.
 - 📫 How to reach me:&nbsp;&nbsp;[Gmail](mailto:ripunjaychoudhury42@gmail.com) &nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/ripunjay-choudhury-83864524b)
 - 📄 Know about my experiences:&nbsp;&nbsp;[Resume](https://drive.google.com/file/d/1GgtkrPsKERVkkUxn2GrA_xgi9sFWQTBK/view?usp=sharing)
 - ⚡ Fun fact: I like to play cricket, badminton, etc.
