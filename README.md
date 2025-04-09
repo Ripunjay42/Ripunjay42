@@ -54,9 +54,9 @@
 
 <p align="left">
   <a href="https://ripunjay-portfolio.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react" /><br>
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,nodejs,express,flask,django,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=postgresql,sqlite,firebase,linux,docker,git,github,vscode"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,nodejs,express,flask,django,mysql,postgresql,sqlite,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=sequelize,firebase,aws,linux,docker,git,github,postman,figma,vscode"/>
 
   </a>
 </p>
